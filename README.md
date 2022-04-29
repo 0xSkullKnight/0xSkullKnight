@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0xSkullKnight
+- 👀 I’m interested in Web3, Blockchain, Automated Systems & Business Models, Electrical & Mechanical Engineering.
+- 🌱 I’m currently learning Solidity and Javascript.
+- 💞️ I’m looking to collaborate on Web3 and other open source projects.
+- 📫 How to reach me at 0xSkullKnight@protonmail.com
